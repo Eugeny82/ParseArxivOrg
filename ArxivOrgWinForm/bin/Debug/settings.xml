@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<PropFields xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <XMLFileName>d:\_PROGRAMMING\DEVELOPMENT\C#\Solutions\14 Parsing Sites\Selenium\ArxivOrgWinForm_PDF_Science3_for_GitHub\ArxivOrgWinForm\bin\Debug\settings.xml</XMLFileName>
+  <YearStart>2019</YearStart>
+  <YearStop>2019</YearStop>
+  <MonthStart>4</MonthStart>
+  <MonthStop>4</MonthStop>
+  <Index>9</Index>
+  <PathPDF>D:\ArxivOrgPDF\temp</PathPDF>
+  <GetPDF>true</GetPDF>
+  <GetArticles>true</GetArticles>
+</PropFields>

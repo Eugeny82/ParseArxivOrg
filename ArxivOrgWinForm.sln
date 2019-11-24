@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29209.62
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ArxivOrgWinForm", "ArxivOrgWinForm\ArxivOrgWinForm.csproj", "{300145A5-6BD0-48D2-A012-C5C8CECFFF80}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{300145A5-6BD0-48D2-A012-C5C8CECFFF80}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{300145A5-6BD0-48D2-A012-C5C8CECFFF80}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{300145A5-6BD0-48D2-A012-C5C8CECFFF80}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{300145A5-6BD0-48D2-A012-C5C8CECFFF80}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {061BAE85-238A-4DB7-AD97-51D0A7C6C1CB}
+	EndGlobalSection
+EndGlobal

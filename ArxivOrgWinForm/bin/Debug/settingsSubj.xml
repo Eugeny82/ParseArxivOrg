@@ -1,0 +1,361 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ScienFields xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <XMLFileName>d:\_PROGRAMMING\DEVELOPMENT\C#\Solutions\14 Parsing Sites\Selenium\ArxivOrgWinForm_PDF_Science3\ArxivOrgWinForm\bin\Debug\settingsSubj.xml</XMLFileName>
+  <Sciences>
+    <Science>
+      <Name>Physics</Name>
+      <subjects>
+        <Subject>
+          <Name>Astrophysics</Name>
+          <Category>
+            <string>astro-ph.GA - Astrophysics of Galaxies</string>
+            <string>astro-ph.CO - Cosmology and Nongalactic Astrophysics</string>
+            <string>astro-ph.EP - Earth and Planetary Astrophysics</string>
+            <string>astro-ph.HE - High Energy Astrophysical Phenomena</string>
+            <string>astro-ph.IM - Instrumentation and Methods for Astrophysics</string>
+            <string>astro-ph.SR - Solar and Stellar Astrophysics</string>
+          </Category>
+        </Subject>
+      </subjects>
+    </Science>
+    <Science>
+      <Name>Physics</Name>
+      <subjects>
+        <Subject>
+          <Name>Condensed Matter</Name>
+          <Category>
+            <string>cond-mat.dis-nn - Disordered Systems and Neural Networks</string>
+            <string>cond-mat.mtrl-sci - Materials Science</string>
+            <string>cond-mat.mes-hall - Mesoscale and Nanoscale Physics</string>
+            <string>cond-mat.other - Other Condensed Matter</string>
+            <string>cond-mat.quant-gas - Quantum Gases</string>
+            <string>cond-mat.soft - Soft Condensed Matter</string>
+            <string>cond-mat.stat-mech - Statistical Mechanics</string>
+            <string>cond-mat.str-el - Strongly Correlated Electrons</string>
+            <string>cond-mat.supr-con - Superconductivity</string>
+          </Category>
+        </Subject>
+      </subjects>
+    </Science>
+    <Science>
+      <Name>Computer Science</Name>
+      <subjects>
+        <Subject>
+          <Name>Computer Science</Name>
+          <Category>
+            <string>cs.AI - Artificial Intelligence</string>
+            <string>cs.CL - Computation and Language</string>
+            <string>cs.CC - Computational Complexity</string>
+            <string>cs.CE - Computational Engineering, Finance, and Science</string>
+            <string>cs.CG - Computational Geometry</string>
+            <string>cs.GT - Computer Science and Game Theory</string>
+            <string>cs.CV - Computer Vision and Pattern Recognition</string>
+            <string>cs.CY - Computers and Society</string>
+            <string>cs.CR - Cryptography and Security</string>
+            <string>cs.DS - Data Structures and Algorithms</string>
+            <string>cs.DB - Databases</string>
+            <string>cs.DL - Digital Libraries</string>
+            <string>cs.DM - Discrete Mathematics</string>
+            <string>cs.DC - Distributed, Parallel, and Cluster Computing</string>
+            <string>cs.ET - Emerging Technologies</string>
+            <string>cs.FL - Formal Languages and Automata Theory</string>
+            <string>cs.GL - General Literature</string>
+            <string>cs.GR - Graphics</string>
+            <string>cs.AR - Hardware Architecture</string>
+            <string>cs.HC - Human-Computer Interaction</string>
+            <string>cs.IR - Information Retrieval</string>
+            <string>cs.IT - Information Theory</string>
+            <string>cs.LO - Logic in Computer Science</string>
+            <string>cs.LG - Machine Learning</string>
+            <string>cs.MS - Mathematical Software</string>
+            <string>cs.MA - Multiagent Systems</string>
+            <string>cs.MM - Multimedia</string>
+            <string>cs.NI - Networking and Internet Architecture</string>
+            <string>cs.NE - Neural and Evolutionary Computing</string>
+            <string>cs.NA - Numerical Analysis</string>
+            <string>cs.OS - Operating Systems</string>
+            <string>cs.OH - Other Computer Science</string>
+            <string>cs.PF - Performance</string>
+            <string>cs.PL - Programming Languages</string>
+            <string>cs.RO - Robotics</string>
+            <string>cs.SI - Social and Information Networks</string>
+            <string>cs.SE - Software Engineering</string>
+            <string>cs.SD - Sound</string>
+            <string>cs.SC - Symbolic Computation</string>
+            <string>cs.SY - Systems and Control</string>
+          </Category>
+        </Subject>
+      </subjects>
+    </Science>
+    <Science>
+      <Name>Economics</Name>
+      <subjects>
+        <Subject>
+          <Name>Economics</Name>
+          <Category>
+            <string>econ.EM - Econometrics</string>
+            <string>econ.GN - General Economics</string>
+            <string>econ.TH - Theoretical Economics</string>
+          </Category>
+        </Subject>
+      </subjects>
+    </Science>
+    <Science>
+      <Name>Electrical Engineering and Systems Science</Name>
+      <subjects>
+        <Subject>
+          <Name>Electrical Engineering and Systems Science</Name>
+          <Category>
+            <string>eess.AS - Audio and Speech Processing</string>
+            <string>eess.IV - Image and Video Processing</string>
+            <string>eess.SP - Signal Processing</string>
+            <string>eess.SY - Systems and Control</string>
+          </Category>
+        </Subject>
+      </subjects>
+    </Science>
+    <Science>
+      <Name>Physics</Name>
+      <subjects>
+        <Subject>
+          <Name>General Relativity and Quantum Cosmology</Name>
+          <Category>
+            <string>General Relativity and Quantum Cosmology (gr-qc)</string>
+          </Category>
+        </Subject>
+      </subjects>
+    </Science>
+    <Science>
+      <Name>Physics</Name>
+      <subjects>
+        <Subject>
+          <Name>High Energy Physics - Experiment</Name>
+          <Category>
+            <string>High Energy Physics - Experiment (hep-ex)</string>
+          </Category>
+        </Subject>
+      </subjects>
+    </Science>
+    <Science>
+      <Name>Physics</Name>
+      <subjects>
+        <Subject>
+          <Name>High Energy Physics - Lattice</Name>
+          <Category>
+            <string>High Energy Physics - Lattice (hep-lat)</string>
+          </Category>
+        </Subject>
+      </subjects>
+    </Science>
+    <Science>
+      <Name>Physics</Name>
+      <subjects>
+        <Subject>
+          <Name>High Energy Physics - Phenomenology</Name>
+          <Category>
+            <string>High Energy Physics - Phenomenology (hep-ph)</string>
+          </Category>
+        </Subject>
+      </subjects>
+    </Science>
+    <Science>
+      <Name>Physics</Name>
+      <subjects>
+        <Subject>
+          <Name>High Energy Physics - Theory</Name>
+          <Category>
+            <string>High Energy Physics - Theory (hep-th)</string>
+          </Category>
+        </Subject>
+      </subjects>
+    </Science>
+    <Science>
+      <Name>Mathematics</Name>
+      <subjects>
+        <Subject>
+          <Name>Mathematics</Name>
+          <Category>
+            <string>math.AG - Algebraic Geometry</string>
+            <string>math.AT - Algebraic Topology</string>
+            <string>math.AP - Analysis of PDEs</string>
+            <string>math.CT - Category Theory</string>
+            <string>math.CA - Classical Analysis and ODEs</string>
+            <string>math.CO - Combinatorics</string>
+            <string>math.AC - Commutative Algebra</string>
+            <string>math.CV - Complex Variables</string>
+            <string>math.DG - Differential Geometry</string>
+            <string>math.DS - Dynamical Systems</string>
+            <string>math.FA - Functional Analysis</string>
+            <string>math.GM - General Mathematics</string>
+            <string>math.GN - General Topology</string>
+            <string>math.GT - Geometric Topology</string>
+            <string>math.GR - Group Theory</string>
+            <string>math.HO - History and Overview</string>
+            <string>math.IT - Information Theory</string>
+            <string>math.KT - K-Theory and Homology</string>
+            <string>math.LO - Logic</string>
+            <string>math.MP - Mathematical Physics</string>
+            <string>math.MG - Metric Geometry</string>
+            <string>math.NT - Number Theory</string>
+            <string>math.NA - Numerical Analysis</string>
+            <string>math.OA - Operator Algebras</string>
+            <string>math.OC - Optimization and Control</string>
+            <string>math.PR - Probability</string>
+            <string>math.QA - Quantum Algebra</string>
+            <string>math.RT - Representation Theory</string>
+            <string>math.RA - Rings and Algebras</string>
+            <string>math.SP - Spectral Theory</string>
+            <string>math.ST - Statistics Theory</string>
+            <string>math.SG - Symplectic Geometry</string>
+          </Category>
+        </Subject>
+      </subjects>
+    </Science>
+    <Science>
+      <Name>Physics</Name>
+      <subjects>
+        <Subject>
+          <Name>Mathematical Physics</Name>
+          <Category>
+            <string>Mathematical Physics (math-ph)</string>
+          </Category>
+        </Subject>
+      </subjects>
+    </Science>
+    <Science>
+      <Name>Physics</Name>
+      <subjects>
+        <Subject>
+          <Name>Nonlinear Sciences</Name>
+          <Category>
+            <string>nlin.AO - Adaptation and Self-Organizing Systems</string>
+            <string>nlin.CG - Cellular Automata and Lattice Gases</string>
+            <string>nlin.CD - Chaotic Dynamics</string>
+            <string>nlin.SI - Exactly Solvable and Integrable Systems</string>
+            <string>nlin.PS - Pattern Formation and Solitons</string>
+          </Category>
+        </Subject>
+      </subjects>
+    </Science>
+    <Science>
+      <Name>Physics</Name>
+      <subjects>
+        <Subject>
+          <Name>Nuclear Experiment</Name>
+          <Category>
+            <string>Nuclear Experiment (nucl-ex)</string>
+          </Category>
+        </Subject>
+      </subjects>
+    </Science>
+    <Science>
+      <Name>Physics</Name>
+      <subjects>
+        <Subject>
+          <Name>Nuclear Theory</Name>
+          <Category>
+            <string>Nuclear Theory (nucl-th)</string>
+          </Category>
+        </Subject>
+      </subjects>
+    </Science>
+    <Science>
+      <Name>Physics</Name>
+      <subjects>
+        <Subject>
+          <Name>Physics</Name>
+          <Category>
+            <string>physics.acc-ph - Accelerator Physics</string>
+            <string>physics.app-ph - Applied Physics</string>
+            <string>physics.ao-ph - Atmospheric and Oceanic Physics</string>
+            <string>physics.atom-ph - Atomic Physics</string>
+            <string>physics.atm-clus - Atomic and Molecular Clusters</string>
+            <string>physics.bio-ph - Biological Physics</string>
+            <string>physics.chem-ph - Chemical Physics</string>
+            <string>physics.class-ph - Classical Physics</string>
+            <string>physics.comp-ph - Computational Physics</string>
+            <string>physics.data-an - Data Analysis, Statistics and Probability</string>
+            <string>physics.flu-dyn - Fluid Dynamics</string>
+            <string>physics.gen-ph - General Physics</string>
+            <string>physics.geo-ph - Geophysics</string>
+            <string>physics.hist-ph - History and Philosophy of Physics</string>
+            <string>physics.ins-det - Instrumentation and Detectors</string>
+            <string>physics.med-ph - Medical Physics</string>
+            <string>physics.optics - Optics</string>
+            <string>physics.ed-ph - Physics Education</string>
+            <string>physics.soc-ph - Physics and Society</string>
+            <string>physics.plasm-ph - Plasma Physics</string>
+            <string>physics.pop-ph - Popular Physics</string>
+            <string>physics.space-ph - Space Physics</string>
+          </Category>
+        </Subject>
+      </subjects>
+    </Science>
+    <Science>
+      <Name>Quantitative Biology</Name>
+      <subjects>
+        <Subject>
+          <Name>Quantitative Biology</Name>
+          <Category>
+            <string>q-bio.BM - Biomolecules</string>
+            <string>q-bio.CB - Cell Behavior</string>
+            <string>q-bio.GN - Genomics</string>
+            <string>q-bio.MN - Molecular Networks</string>
+            <string>q-bio.NC - Neurons and Cognition</string>
+            <string>q-bio.OT - Other Quantitative Biology</string>
+            <string>q-bio.PE - Populations and Evolution</string>
+            <string>q-bio.QM - Quantitative Methods</string>
+            <string>q-bio.SC - Subcellular Processes</string>
+            <string>q-bio.TO - Tissues and Organs</string>
+          </Category>
+        </Subject>
+      </subjects>
+    </Science>
+    <Science>
+      <Name>Quantitative Finance</Name>
+      <subjects>
+        <Subject>
+          <Name>Quantitative Finance</Name>
+          <Category>
+            <string>q-fin.CP - Computational Finance</string>
+            <string>q-fin.EC - Economics</string>
+            <string>q-fin.GN - General Finance</string>
+            <string>q-fin.MF - Mathematical Finance</string>
+            <string>q-fin.PM - Portfolio Management</string>
+            <string>q-fin.PR - Pricing of Securities</string>
+            <string>q-fin.RM - Risk Management</string>
+            <string>q-fin.ST - Statistical Finance</string>
+            <string>q-fin.TR - Trading and Market Microstructure</string>
+          </Category>
+        </Subject>
+      </subjects>
+    </Science>
+    <Science>
+      <Name>Physics</Name>
+      <subjects>
+        <Subject>
+          <Name>Quantum Physics</Name>
+          <Category>
+            <string>Quantum Physics (quant-ph)</string>
+          </Category>
+        </Subject>
+      </subjects>
+    </Science>
+    <Science>
+      <Name>Statistics</Name>
+      <subjects>
+        <Subject>
+          <Name>Statistics</Name>
+          <Category>
+            <string>stat.AP - Applications</string>
+            <string>stat.CO - Computation</string>
+            <string>stat.ML - Machine Learning</string>
+            <string>stat.ME - Methodology</string>
+            <string>stat.OT - Other Statistics</string>
+            <string>stat.TH - Statistics Theory</string>
+          </Category>
+        </Subject>
+      </subjects>
+    </Science>
+  </Sciences>
+</ScienFields>
